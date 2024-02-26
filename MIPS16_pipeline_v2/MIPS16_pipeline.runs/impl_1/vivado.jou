@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed May 10 13:24:43 2023
+# Process ID: 20200
+# Current directory: C:/Users/elena/OneDrive/Desktop/facultate/an2/AC/newtry pipe/MIPS16_pipeline_v2/MIPS16_pipeline.runs/impl_1
+# Command line: vivado.exe -log mips16_pipe.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mips16_pipe.tcl -notrace
+# Log file: C:/Users/elena/OneDrive/Desktop/facultate/an2/AC/newtry pipe/MIPS16_pipeline_v2/MIPS16_pipeline.runs/impl_1/mips16_pipe.vdi
+# Journal file: C:/Users/elena/OneDrive/Desktop/facultate/an2/AC/newtry pipe/MIPS16_pipeline_v2/MIPS16_pipeline.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source mips16_pipe.tcl -notrace
